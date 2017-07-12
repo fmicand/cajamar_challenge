@@ -3,7 +3,7 @@ As a Master Thesis for the **Master on Foundations of Data Science - University 
 http://www.cajamardatalab.com/datathon-cajamar-universityhack-2017/microsoft-predictive-modelling/
 
 ## Abstract
-Responding to a bank’s challenge, a predictive model is presented to address the task of predicting the next financial product an existing customer is willing to buy, given his purchases’ history and sociodemographic information. After stating the problem and identifying the bank’s needs, we explore in detail the data to detect trends and patterns which motivate the creation of new features, and the Neural Network based model proposed. The results will show the importance of the RNN part of the proposed architecture to overcome other models. During the whole solution’s development, the business, ethical and technical specificities of the task have continually been considered.
+Responding to a bank’s challenge, a predictive model is presented to address the task of predicting the next financial product an existing customer is willing to buy, given his purchases’ history and sociodemographic information. After stating the problem and identifying the bank’s needs, we explore in detail the dataset to detect trends and patterns which motivate the creation of new features, and the Neural Network based’s model proposed. The results will show the importance of the Recurrent Neural Network part of the proposed architecture to overcome other models. During the solution’s development, the business, ethical and technical specificities of the task have been constantly considered.
 
 ## Resources provided
 You can open in your browser the following resources clicking on them.
